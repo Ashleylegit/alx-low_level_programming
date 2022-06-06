@@ -1,15 +1,17 @@
 #include <stdio.h>
-
 /**
- *main - outputs lowercase alphabet.
- *Return: Always 0
- */
+* main - returns 0
+*
+* Description - main returns 0
+* putchar - Prints each letter of the alphabet in lowercase
+* Return: 0
+*/
 int main(void)
 {
-int n;
-for (n = 97; n < 123; n = n + 1)
+char c;
+for (c = 'a'; c <= 'z'; c++)
 {
-putchar(n);
+putchar(c);
 }
 putchar('\n');
 return (0);
