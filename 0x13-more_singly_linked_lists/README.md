@@ -1,1 +1,1 @@
-Learning more singly list. 
+Learning more singly list.
