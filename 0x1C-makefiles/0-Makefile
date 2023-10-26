@@ -1,4 +1,0 @@
-# This is a first example of Makefile
-
-all : main.c school.c
-	gcc main.c school.c -o school
