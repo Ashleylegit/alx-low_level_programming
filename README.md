@@ -1,4 +1,3 @@
 Project Objectives<br><br>
 
-This project intends to demonstrate an understanding of the following concepts:<br>
---How to manipulate bits and use bitwise operators
+This repository intends to demonstrate an understanding of the C programming language covering topics such as functions, loops, arrays, pointers, linked lists and memory management.
